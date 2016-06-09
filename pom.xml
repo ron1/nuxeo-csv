@@ -9,7 +9,7 @@
 
   <groupId>org.nuxeo.csv</groupId>
   <artifactId>nuxeo-csv</artifactId>
-  <version>8.2-CKS1-SNAPSHOT</version>
+  <version>8.2-CKS1</version>
   <name>Nuxeo CSV Importer / Exporter</name>
   <description>Nuxeo CSV Importer / Exporter</description>
 
